@@ -1,0 +1,30 @@
+{"@timestamp":"2023-01-08T12:26:17.651+01:00","message":"Slf4jLogger started"}
+{"@timestamp":"2023-01-08T12:26:17.678+01:00","message":"Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):\n\n    play.filters.csrf.CSRFFilter\n    play.filters.headers.SecurityHeadersFilter\n    play.filters.hosts.AllowedHostsFilter\n    filters.ContentSecurityPolicyFilter\n"}
+{"@timestamp":"2023-01-08T12:26:17.719+01:00","message":"Application started (Dev) (no global state)"}
+{"@timestamp":"2023-01-08T12:26:17.834+01:00","message":"decode: cookie has invalid signature! message = JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted."}
+{"@timestamp":"2023-01-08T12:26:17.836+01:00","message":"The JWT signature in the cookie does not match the locally computed signature with the server. This usually indicates the browser has a leftover cookie from another Play application, so clearing cookies may resolve this error message."}
+{"@timestamp":"2023-01-08T12:26:17.878+01:00","message":"index: ","host":"localhost:9000","path":"/"}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"decode: cookie has invalid signature! message = JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"decode: cookie has invalid signature! message = JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"decode: cookie has invalid signature! message = JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"The JWT signature in the cookie does not match the locally computed signature with the server. This usually indicates the browser has a leftover cookie from another Play application, so clearing cookies may resolve this error message."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"The JWT signature in the cookie does not match the locally computed signature with the server. This usually indicates the browser has a leftover cookie from another Play application, so clearing cookies may resolve this error message."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"The JWT signature in the cookie does not match the locally computed signature with the server. This usually indicates the browser has a leftover cookie from another Play application, so clearing cookies may resolve this error message."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"decode: cookie has invalid signature! message = JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"decode: cookie has invalid signature! message = JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"The JWT signature in the cookie does not match the locally computed signature with the server. This usually indicates the browser has a leftover cookie from another Play application, so clearing cookies may resolve this error message."}
+{"@timestamp":"2023-01-08T12:26:18.166+01:00","message":"The JWT signature in the cookie does not match the locally computed signature with the server. This usually indicates the browser has a leftover cookie from another Play application, so clearing cookies may resolve this error message."}
+{"@timestamp":"2023-01-08T12:26:18.167+01:00","message":"decode: cookie has invalid signature! message = JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted."}
+{"@timestamp":"2023-01-08T12:26:18.167+01:00","message":"The JWT signature in the cookie does not match the locally computed signature with the server. This usually indicates the browser has a leftover cookie from another Play application, so clearing cookies may resolve this error message."}
+{"@timestamp":"2023-01-08T12:26:18.277+01:00","message":"decode: cookie has invalid signature! message = JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted."}
+{"@timestamp":"2023-01-08T12:26:18.277+01:00","message":"The JWT signature in the cookie does not match the locally computed signature with the server. This usually indicates the browser has a leftover cookie from another Play application, so clearing cookies may resolve this error message."}
+{"@timestamp":"2023-01-08T12:26:18.468+01:00","message":"Checking the ORIGIN ","host":"localhost:9000","path":"/chat"}
+{"@timestamp":"2023-01-08T12:26:18.468+01:00","message":"originCheck: originValue = http://localhost:9000","host":"localhost:9000","path":"/chat"}
+{"@timestamp":"2023-01-08T12:26:23.455+01:00","message":"[source] Element: hello"}
+{"@timestamp":"2023-01-08T12:26:34.090+01:00","message":"[source] Element: how do you do "}
+{"@timestamp":"2023-01-08T14:25:58.504+01:00","message":"Starting synchronous coordinated shutdown with ServerStoppedReason reason and 35000 milliseconds timeout"}
+{"@timestamp":"2023-01-08T14:25:58.688+01:00","message":"Running CoordinatedShutdown with reason [ServerStoppedReason]"}
+{"@timestamp":"2023-01-08T14:25:58.692+01:00","message":"Stopping Akka HTTP server..."}
+{"@timestamp":"2023-01-08T14:25:58.706+01:00","message":"Terminating server binding for /[0:0:0:0:0:0:0:0]:9000"}
+{"@timestamp":"2023-01-08T14:25:58.734+01:00","message":"Running CoordinatedShutdown with reason [ApplicationStoppedReason]"}
+{"@timestamp":"2023-01-08T14:25:58.776+01:00","message":"Running provided shutdown stop hooks"}
